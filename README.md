@@ -31,7 +31,7 @@ Desenvolver um sistema preditivo que análise dados históricos e estime a deman
 
 **Métricas do Algorítmo**
 
-![Resultados Gerais](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Resultados Gerais](https://github.com/marinaseara/Projetovendas/blob/main/img/img1.png)
 
 
 ![Resultado Vendas por Temperatura](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
