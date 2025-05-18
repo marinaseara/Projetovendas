@@ -1,0 +1,27 @@
+IcePredict - Sistema Preditivo para Estimativa de Vendas Diárias de Sorvetes com Base na Temperatura
+
+Introdução
+
+A demanda por sorvetes está diretamente relacionada a fatores climáticos, principalmente à temperatura ambiente. Este projeto visa desenvolver um modelo preditivo capaz de estimar as vendas diárias de sorvetes com base na temperatura e outras variáveis climáticas, utilizando algoritmos de aprendizado de máquina.
+
+Objetivo Geral
+Desenvolver um sistema preditivo que análise dados históricos e estime a demanda diária de sorvetes, permitindo melhor gestão de estoque e planejamento estratégico.
+
+Objetivos Específicos
+•	Coletar e processar dados históricos de vendas de sorvetes e a temperatura no dia.
+•	Testar um algoritmo de aprendizado de máquina, como Regressão Linear ou Random Forest.
+•	Implementar um modelo que preveja as vendas com alta precisão.
+
+Metodologia
+1.	Coleta de Dados
+     o	 Registros de vendas de sorvetes em diferentes períodos.
+     o	Dados climáticos históricos (temperatura, umidade, condições meteorológicas).
+2.	Pré-processamento dos Dados
+     o	Limpeza e organização das informações.
+     o	Normalização de dados para melhorar desempenho do modelo.
+3.	Escolha e Implementação do Modelo Preditivo
+    o	Comparação entre Regressão Linear ou Random Forest.
+    o	Teste dos modelos para selecionar o que apresenta melhor precisão.
+4.	Validação e Ajuste do Modelo
+    o	Ajuste de hiperparâmetros para melhoria da previsão.
+    o	Testes com dados reais e métricas como RMSE
