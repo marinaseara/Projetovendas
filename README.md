@@ -27,11 +27,4 @@ Desenvolver um sistema preditivo que análise dados históricos e estime a deman
 - Gerenciar o modelo usando o MLflow.
 - Uso do Azure Desinger para criação do pipeline estruturado para treinamento e teste do modelo
 
-## Métricas Resultados do Projeto
 
-**Métricas do Algorítmo**
-
-![Resultados Gerais](https://github.com/marinaseara/Projetovendas/blob/main/img/img1.png)
-
-
-![Resultado Vendas por Temperatura](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
